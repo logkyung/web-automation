@@ -1,6 +1,5 @@
 <div align='center'>
 	<img width=80% src="https://user-images.githubusercontent.com/113345693/223664006-390ab8b5-c037-4cda-9310-dae12f81daab.gif" />
-	<img width=80% src="https://user-images.githubusercontent.com/113345693/223664238-84389502-671d-49e0-bb84-c703c6e9230b.jpeg" />
 </div>
 
 # Description
